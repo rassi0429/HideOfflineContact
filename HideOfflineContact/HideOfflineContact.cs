@@ -14,8 +14,8 @@ namespace HideOfflineContact
     {
         public override string Name => "HideOfflineContact";
         public override string Author => "kka429";
-        public override string Version => "0.0.1";
-        public override string Link => "https://github.com/rassi0429/";
+        public override string Version => "0.0.2";
+        public override string Link => "https://github.com/rassi0429/HideOfflineContact";
 
         public override void OnEngineInit()
         {
