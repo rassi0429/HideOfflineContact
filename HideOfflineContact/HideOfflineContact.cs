@@ -7,7 +7,7 @@ namespace HideOfflineContact
 {
     public class HideOfflineContact : ResoniteMod
     {
-        internal const string VERSION_CONSTANT = "0.0.2";
+        internal const string VERSION_CONSTANT = "0.1.0";
         public override string Name => "HideOfflineContact";
         public override string Author => "kka429";
         public override string Version => VERSION_CONSTANT;
